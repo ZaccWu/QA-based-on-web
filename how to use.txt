@@ -1,0 +1,2 @@
+cmd进入此文件夹，输入: python start.py
+将链接用浏览器打开（或输入http://localhost:8080 或者 http://localhost:8080/test）
