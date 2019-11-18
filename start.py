@@ -49,8 +49,6 @@ def search(question):
     # 如果搜索不到答案，则给用户提示，并将问题加入数据库
     if "not" in answer:
         answer = "我不知道怎么回答您的问题！"
-    if "余" in question:
-        answer = "牛逼"
 
     if isinstance(answer,list):
         answer=str("".join(answer)).strip()
