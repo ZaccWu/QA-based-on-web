@@ -1,2 +1,4 @@
-cmd������ļ��У�����: python start.py
-��������������򿪣�������http://localhost:8080 ���� http://localhost:8080/test��
+cmd进入此文件夹，输入: python start.py
+将链接用浏览器打开（或输入http://localhost:8080 或者 http://localhost:8080/test）
+
+可以在最新版的pycharm中打开，直接运行，运行成功后，打开浏览器输入http://localhost:8080即可
