@@ -35,7 +35,7 @@ $('#info').keyup(function(e) {
         });
     } else {
         $('#send').css({
-            'background-image': 'url(/static/img/btn3.gif)'
+            'background-image': 'url(/static/img/btn33.png)'
         });
     }
     if (key == 13) {
