@@ -1,5 +1,5 @@
 .chat_wrap{
-  background: url(/static/img/kuang101.png) no-repeat;
+  background: url(/static/img/sidebar.png) no-repeat;
   background-size: 100% 100%;
   padding-top:28px;
   padding-bottom: 30px;
@@ -7,11 +7,11 @@
   padding-right: 4px;
 }
 .chat_left{
-  background: url(/static/img/r11.png) right bottom no-repeat;
+  background: url(/static/img/left.png) right bottom no-repeat;
   height: 600px;
 }
 .chat_right{
-  background: url(/static/img/r2.png) left bottom no-repeat;
+  background: url(/static/img/right.png) left bottom no-repeat;
   height: 600px;
 }
 #chat {
