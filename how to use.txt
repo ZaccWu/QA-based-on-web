@@ -3,8 +3,9 @@ cmd进入此文件夹，输入: python start.py
 
 可以在最新版的pycharm中打开，直接运行，运行成功后，打开浏览器输入http://localhost:8080即可
 
+cmd进入此文件夹，输入: python Ask.py 127.0.0.1:1234
+将127.0.0.1:1234用浏览器打开
+
 启动neo4j：
-
 进入到\neo4j-community-3.5.13\bin，输入neo4j.bat console
-
 打开http://localhost:7474/
